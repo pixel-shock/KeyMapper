@@ -6,11 +6,8 @@ Los servicios de accesibilidad solo detectan las teclas y eventos de las aplicac
     <string name="selection_count">%d seleccionado</string>
     <string name="enable">Activar</string>
     <string name="open">Abrir</string>
-    <string name="recyclerview_placeholder">¯\\_(ツ)_/¯\n\nNada por aquí!</string>
     <string name="triggers_recyclerview_placeholder">¡Graba un disparador!</string>
     <string name="actions_recyclerview_placeholder">¡Añadir una acción!</string>
-    <string name="keymap_recyclerview_placeholder">¯\\_(ツ)_/¯\n\n¡Crea un mapeado!</string>
-    <string name="action_shortcut_list_recyclerview_placeholder">¯\\_(ツ)_/¯\n\n¡No has escogido acciones para este atajo!</string>
     <string name="no_key_maps">¡No has creado ningún mapeado!</string>
     <string name="everything_looks_good">¡Todo parece correcto!</string>
     <string name="warning_the_app_will_work">La aplicación funcionará, pero algunas cosas necesitan repararse dependiendo de qué estás haciendo.</string>
@@ -37,7 +34,6 @@ Los servicios de accesibilidad solo detectan las teclas y eventos de las aplicac
     <string name="shortcut_label_action">Realizar acciones</string>
     <string name="hold_down_until_trigger_is_dot_dot_dot">Mantén presionado hasta que el disparador…</string>
     <string name="from_no_device">Sin dispositivos</string>
-    <string name="intent_extras_recycler_view_placeholder">¯\\_(ツ)_/¯\n\n¡Sin extras!</string>
     <string name="content_description_fab_new_keymap">Crear un nuevo mapa</string>
     <string name="whats_new">Novedades</string>
     <string name="caption_action_type_key">Haga clic en la tecla del dispositivo que desea que se introduzca.
